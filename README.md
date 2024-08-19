@@ -33,7 +33,7 @@ The MQ4 gas sensor is used for detecting methane (CH4) and natural gas in the ai
 ## Board Pinout
 
 | Pin Number | Pin Name | Description |
-| :---: | :---: | --- |
+| :---: | :---: | :---: |
 | 1 | +5V | Power Supply |
 | 2 | AO | Analog Out |
 | 3 | DO | Digital Out |
