@@ -1,11 +1,12 @@
 # Boardoza MQ4 Methane Gas Sensor Breakout Board
 The MQ4 gas sensor is used for detecting methane (CH4) and natural gas in the air. It belongs to the MQ sensor series, which are designed to detect various gases by utilizing a chemical reaction that occurs on the surface of a heated metal oxide. The MQ4 specifically targets methane, making it an essential tool for safety in environments where natural gas is present, such as in homes, industrial sites, and mines.
 
-### [Click here to purchase!](https://www.ozdisan.com)
+
+### [Click here to purchase!](https://www.ozdisan.com/maker-and-iot-products/boardoza/boardoza-modules/MQ4-BREAKOUT-BOARD/1065558)
 
 |Front Side|Back Side|
 |:---:|:---:|
-![Boardoza_MQ4_GAS_MKPV2_Front_View](./assets/MQ4%20Front.png)|![Boardoza_MQ4_GAS_MKPV2_Back_View](./assets/MQ4%20Back.png)|
+![Boardoza_MQ4_GAS_MKPV2_Front_View](./assets/MQ-4%20Front.png)|![Boardoza_MQ4_GAS_MKPV2_Back_View](./assets/MQ-4%20Back.png)|
 
 ---
 ## Key Features
@@ -19,7 +20,7 @@ The MQ4 gas sensor is used for detecting methane (CH4) and natural gas in the ai
 
 **Input Voltage:**	5V
 
-**Functions:**	Digital Gas Sensor
+**Functions:**	Methane (CH4) Gas Detection
 
 **Measurement Range:**	 200 parts per million (ppm) to 10,000 ppm
 
@@ -42,17 +43,17 @@ The MQ4 gas sensor is used for detecting methane (CH4) and natural gas in the ai
 ---
 ## Board Dimensions
 
-<img src="./docs/MQ4 Methane Gas Sensor Breakout Board Dimension.png" alt="MQ4 Methane Gas Sensor" width="400"/>
+<img src="./assets/MQ-4 Dimension.png" alt="MQ4 Methane Gas Sensor" width="400"/>
 
 ---
 ## Step Files
 
-[Boardoza MQ4.step](https://boardoza.com/stepfiles/MQ4_GAS_MKPV2.step)
+[Boardoza MQ4.step](./assets/MQ-4%20Step.step)
 
 ---
 ## Datasheet
 
-[MQ-4 Datasheet.pdf](https://boardoza.com/product/boardoza-mq4-methane-gas-sensor-breakout-board/#)
+[MQ-4 Datasheet.pdf](./assets/MQ-4%20Datasheet.pdf)
 
 ---
 ## Version History
